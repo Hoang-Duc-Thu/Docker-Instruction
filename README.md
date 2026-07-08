@@ -221,7 +221,7 @@ output:
 ```Bash
 sudo docker pull mysql:8
 ```
-**delete3 Image**
+**delete Image**
 ```Bash
 sudo docker rmi mysql:8
 ```
